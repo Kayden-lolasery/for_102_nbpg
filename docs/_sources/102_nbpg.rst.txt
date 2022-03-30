@@ -1,0 +1,7 @@
+102\_nbpg module
+================
+
+.. automodule:: 102_nbpg
+   :members:
+   :undoc-members:
+   :show-inheritance:
